@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+}
+#links{
+    padding: 30px;
+    font-family: "Open Sans", sans-serif;
+}
+#digitalClock, #circleClock{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    color: black;
+}
